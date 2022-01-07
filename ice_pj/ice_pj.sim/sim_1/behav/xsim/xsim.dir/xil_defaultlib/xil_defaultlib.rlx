@@ -1,0 +1,21 @@
+0.6
+2019.2
+Oct 24 2019
+19:01:44
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.sim/sim_1/behav/xsim/glbl.v,1571945292,verilog,,,,glbl,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sim_1/new/testbench.v,1641458715,verilog,,,,testbench,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/adder.v,1640319490,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/alu.v,,adder,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/alu.v,1641456644,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/controller.v,,alu,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/clk_div.v,1640345112,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/controller.v,,clk_div,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/controller.v,1641459309,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/dataMem.v,,aludec;controller;maindec,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/dataMem.v,1641439521,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/datapath.v,,dataMem,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/datapath.v,1641453002,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/flopr.v,,datapath,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/flopr.v,1641435680,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/instMem.v,,flopr,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/instMem.v,1641439595,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/mips.v,,instMem,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/mips.v,1641360278,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/mux2.v,,mips,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/mux2.v,1640330580,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/regfile.v,,mux2,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/regfile.v,1641355346,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/signext.v,,regfile,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/seg7.v,1640344768,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/signext.v,,seg7_decoder,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/signext.v,1640327596,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/sl2.v,,signext,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/sl2.v,1640328778,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/top.v,,sl2,,,,,,,,
+C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sources_1/new/top.v,1641373760,verilog,,C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sim_1/new/testbench.v,,top,,,,,,,,

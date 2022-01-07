@@ -1,0 +1,14 @@
+1. flopr 程序计数器
+2. regfile 寄存器
+3. alu 运算单元
+4. singext  符号扩展单元
+5. adder  加法器
+6. mux2  2-1复用器
+7. sl2  左移2位 
+8. instMem 指令存储器
+9. dataMem 数据存储器
+10. controller  控制单元
+11. datapath  执行和连接各单元
+12. mips mips处理器
+13. top  顶层文件
+14. testbench, 仿真测试文件

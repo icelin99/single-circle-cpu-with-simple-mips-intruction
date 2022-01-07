@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ice_pj.srcs/sources_1/new/adder.v" \
+"../../../../ice_pj.srcs/sources_1/new/alu.v" \
+"../../../../ice_pj.srcs/sources_1/new/controller.v" \
+"../../../../ice_pj.srcs/sources_1/new/dataMem.v" \
+"../../../../ice_pj.srcs/sources_1/new/datapath.v" \
+"../../../../ice_pj.srcs/sources_1/new/flopr.v" \
+"../../../../ice_pj.srcs/sources_1/new/instMem.v" \
+"../../../../ice_pj.srcs/sources_1/new/mips.v" \
+"../../../../ice_pj.srcs/sources_1/new/mux2.v" \
+"../../../../ice_pj.srcs/sources_1/new/regfile.v" \
+"../../../../ice_pj.srcs/sources_1/new/signext.v" \
+"../../../../ice_pj.srcs/sources_1/new/sl2.v" \
+"../../../../ice_pj.srcs/sources_1/new/top.v" \
+"../../../../ice_pj.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,80 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+sw/lw/addi
+R 2 = 00000005
+sw/lw/addi
+R 3 = 0000000c
+sw/lw/addi
+R 7 = 00000003
+sw/lw/addi
+R 5 = 00000005
+R 8 = 00000005
+R 8 = 00000000
+R 4 = 00000007
+R 5 = 00000004
+R 5 = 0000000b
+R 4 = 00000000
+sub overflow
+R 4 = 00000001
+R 7 = 0000000c
+R 7 = 00000007
+sw/lw/addi
+add overflow
+sw/lw/addi
+R 2 = 00000007
+sw/lw/addi
+sw/lw/addi
+simulation succeed
+$stop called at time : 185 ns : File "C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sim_1/new/testbench.v" Line 52
+sw/lw/addi
+R 2 = 00000005
+sw/lw/addi
+R 3 = 0000000c
+sw/lw/addi
+R 7 = 00000003
+sw/lw/addi
+R 5 = 00000005
+R 8 = 00000005
+R 8 = 00000000
+R 4 = 00000007
+R 5 = 00000004
+R 5 = 0000000b
+R 4 = 00000000
+sub overflow
+R 4 = 00000001
+R 7 = 0000000c
+R 7 = 00000007
+sw/lw/addi
+add overflow
+sw/lw/addi
+R 2 = 00000007
+sw/lw/addi
+sw/lw/addi
+simulation succeed
+$stop called at time : 185 ns : File "C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sim_1/new/testbench.v" Line 52
+sw/lw/addi
+R 2 = 00000005
+sw/lw/addi
+R 3 = 0000000c
+sw/lw/addi
+R 7 = 00000003
+sw/lw/addi
+R 5 = 00000005
+R 8 = 00000005
+R 8 = 00000000
+R 4 = 00000007
+R 5 = 00000004
+R 5 = 0000000b
+R 4 = 00000000
+sub overflow
+R 4 = 00000001
+R 7 = 0000000c
+R 7 = 00000007
+sw/lw/addi
+add overflow
+sw/lw/addi
+R 2 = 00000007
+sw/lw/addi
+sw/lw/addi
+simulation succeed
+$stop called at time : 185 ns : File "C:/Users/lenovo/Desktop/ice_pj/ice_pj.srcs/sim_1/new/testbench.v" Line 52
